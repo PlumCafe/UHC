@@ -1,0 +1,7 @@
+name: UHC
+version: 1
+main: net.ruxion.main.UHC
+author: Moppletop
+load: STARTUP
+commands:
+  dev:
